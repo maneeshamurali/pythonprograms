@@ -1,0 +1,22 @@
+/*tagname or id or classname{
+    property:value;
+    property:value;
+    id selector(#)
+    class selector(.)
+}*/
+
+h1{
+    color:red;
+}
+h2{
+    color: rgb(184, 38, 65);
+}
+#htwo{
+    color:indigo;
+}
+#second{
+    color:lawngreen;
+}
+.third{
+    color: lightpink;
+}
